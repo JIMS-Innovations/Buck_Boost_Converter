@@ -1,0 +1,9 @@
+../Core/Src/app_freertos.c:125:6:MX_FREERTOS_Init	1
+../Core/Src/app_freertos.c:203:6:StartDefaultTask	3
+../Core/Src/app_freertos.c:290:6:serial_task	1
+../Core/Src/app_freertos.c:310:10:Get_ADC_Value	3
+../Core/Src/app_freertos.c:356:7:realTemp	1
+../Core/Src/app_freertos.c:370:7:realVoltageIN	1
+../Core/Src/app_freertos.c:376:7:realVoltageOUT	1
+../Core/Src/app_freertos.c:384:7:realCurrent	1
+../Core/Src/app_freertos.c:393:7:rawVoltage	1

@@ -1,0 +1,10 @@
+../Core/Src/adc.c:36:6:MX_ADC2_Init	3
+../Core/Src/adc.c:120:6:MX_ADC3_Init	4
+../Core/Src/adc.c:183:6:MX_ADC4_Init	3
+../Core/Src/adc.c:239:6:HAL_ADC_MspInit	9
+../Core/Src/adc.c:376:6:HAL_ADC_MspDeInit	6
+../Core/Src/adc.c:451:10:Get_ADC_Value	4
+../Core/Src/adc.c:495:7:realTemp	1
+../Core/Src/adc.c:509:7:realVoltage	1
+../Core/Src/adc.c:516:7:realCurrent	1
+../Core/Src/adc.c:525:7:rawVoltage	1
